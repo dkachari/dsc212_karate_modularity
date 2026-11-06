@@ -3,6 +3,7 @@ The aim of this assignment is to divide the Karate Club graph into communities u
 
 ## Student details
 Name: Debojit Kachari
+
 Roll number: IMS25061
 
 ## Contents
