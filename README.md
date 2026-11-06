@@ -3,7 +3,7 @@ The aim of this assignment is to divide the Karate Club graph into communities u
 
 ## Contents
 
-- `DSC212_Karate_Modularity.ipynb`: complete report, implementation, executed outputs, figures, and references.
+- `DSC212_Karate_Modularity.ipynb`: complete report, implementation, executed outputs, figures and references.
 - `results/`: figures, partition history, node metrics, and validation results.
 - `requirements.txt`: Python dependencies.
 
