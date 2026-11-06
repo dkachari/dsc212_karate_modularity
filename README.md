@@ -53,4 +53,4 @@ Final community sizes: 7, 9, 12 and 6. The first split matches 33 of 34 historic
 ➤ Dataset: Zachary (1977), through NetworkX. Full references and mathematical derivations appear in the notebook.
 
 ## AI-use acknowledgement
-AI tools were used to assist with parts of the code, simplify the logic and explanations, and check the results.
+AI tools were used to assist with parts of the code, simplify the logic and explanations and check the results.
