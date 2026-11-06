@@ -1,0 +1,7 @@
+numpy>=2.1
+pandas>=2.2
+matplotlib>=3.9
+networkx>=3.4
+ipython>=8.0
+ipykernel>=6.0
+jupyterlab>=4.0
