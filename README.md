@@ -9,7 +9,7 @@ The aim of this assignment is to divide the Karate Club graph into communities u
 
 ## Run
 
-Open the notebook in Jupyter or Google Colab and run all cells from the beginning. Its first code cell installs missing dependencies using the active Python interpreter. Internet access is required only if packages are missing. The dataset is included with NetworkX. Generated files are written to the `results/` directory.
+Open the notebook in Jupyter or Google Colab(preferred) and run all cells from the beginning. It's first code cell installs missing dependencies using the active Python interpreter. Internet access is required only if packages are missing. The dataset is included with NetworkX. Generated files are written to the `results/` directory.
 
 For a local environment, from this folder run:
 
@@ -19,8 +19,6 @@ source .venv/bin/activate
 python -m pip install -r requirements.txt
 python -m jupyterlab
 ```
-
-Select the environment's Python kernel, restart it, run all cells, and save the notebook. If a previous run failed at an import, restart and run from the beginning: later cells depend on the graph and variables created during setup.
 
 ## Method
 
