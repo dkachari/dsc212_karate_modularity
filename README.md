@@ -1,6 +1,10 @@
 # DSC212: Modularity on the Karate Club Graph
 The aim of this assignment is to divide the Karate Club graph into communities using recursive spectral partitioning and then examine the roles of individual nodes using four network metrics.
 
+## Student details
+Name: Debojit Kachari
+Roll number: IMS25061
+
 ## Contents
 
 - `DSC212_Karate_Modularity.ipynb`: complete report, implementation, executed outputs, figures and references.
@@ -42,12 +46,6 @@ Final community sizes: 7, 9, 12, and 6. The first split matches 33 of 34 histori
 M. E. J. Newman (2006). Modularity and community structure in networks. *PNAS*, 103(23), 8577–8582. https://doi.org/10.1073/pnas.0601602103
 
 Dataset: Zachary (1977), through NetworkX. Full references and mathematical derivations appear in the notebook.
-
-
-## Student details
-Name: Debojit Kachari
-
-Roll number: IMS25061
 
 ## AI-use acknowledgement
 AI tools were used to assist with parts of the code, simplify the logic and explanations, and check the results.
