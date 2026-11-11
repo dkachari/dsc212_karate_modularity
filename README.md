@@ -8,7 +8,7 @@ Roll number: IMS25061
 
 ## Contents
 
-- `DSC212_Karate_Modularity.ipynb`: complete report, implementation, executed outputs, figures and references.
+- `karate_modularity_final.ipynb`: complete report, implementation, executed outputs, figures and references.
 - `results/`: figures, partition history, node metrics and validation results.
 - `requirements.txt`: Required python dependencies
 
