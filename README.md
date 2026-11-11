@@ -12,7 +12,7 @@ Roll number: IMS25061
 - `results/`: figures, partition history, node metrics and validation results.
 - `requirements.txt`: Required python dependencies
 
-## Run
+## Run instructions
 
 Open the notebook in Jupyter or Google Colab(preferred) and run all cells from the beginning. It's first code cell installs missing dependencies using the active Python interpreter. Internet access is required only if packages are missing. The dataset is included with NetworkX.
 
