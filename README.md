@@ -8,7 +8,7 @@ Roll number: IMS25061
 
 ## Contents
 
-- `karate_modularity_final.ipynb`: complete report, implementation, executed outputs, figures and references.
+- `karate_modularity.ipynb`: complete report, implementation, executed outputs, figures and references.
 - `results/`: figures, partition history, node metrics and validation results.
 - `requirements.txt`: Required python dependencies
 
